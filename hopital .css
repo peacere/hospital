@@ -1,0 +1,251 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    letter-spacing: 3px;
+    font-size: medium;
+    text-align: center;
+    position: relative;
+}
+
+.hero{
+     background-color: #f4faff;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.container .row .col-lg-6 .content{
+    
+} 
+.nav a img{
+    padding-right: 100px;
+}
+
+.container .row .col-lg-6 .content h1{
+    font-size: 70px;
+    font-weight: 700;
+    margin-right: 50px;
+}
+.container .row .col-lg-6 .content p{
+    line-height: 30px;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    font-family: poppins;
+    margin: 0 0 56px;
+    color: #374161;
+    
+}
+.container .row .col-lg-6 img{
+    margin: 10px;
+
+}
+.btn-primary{
+    text-decoration: none;
+    border-radius: 25px;
+    letter-spacing: normal;
+    text-transform: uppercase;
+    height: 80px
+    
+}
+.btn-primary a .text-center{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-weight: 400;
+    color: antiquewhite;
+    
+
+}
+.manpic{
+    border-radius: 50px;
+}
+.row .fx{
+    margin-top: 10px;
+}
+.row .col-lg-10{
+    margin-top: 10px;
+}
+#q{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 50px;
+    letter-spacing: 1px;
+}
+.sample{
+    padding-top: 100px;
+}
+.sample h1{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: oppins;
+}
+.sample p{
+   letter-spacing: 1px; 
+   font-size: 20px;
+   font-family: oppins;
+}
+
+.numhero{
+    position: fixed;
+    padding: 20px;
+}
+.numhero .row {
+    height: 500px;
+    width: 100%;
+    
+
+}
+.numhero .row .number{
+    height: 400px;
+    width: 240px;
+    background-color:   #ffffff;
+    margin: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 1);
+    margin-top: 100px;
+}
+
+
+.numhero .row .number .num .num2 .p{
+    background-color: #f4faff;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 50px;
+    padding-top: 30px;
+    font-size: 40px;
+    font-family: oppins;
+    background-color: #f4faff;
+    color: #7daefa;
+    
+    
+    
+}
+.numhero .row .number .num .num2 h2{
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.hero2{
+    background-color: #f4faff;
+    margin-top: 10px;
+    
+}
+.hero2 .container .row .col-lg-6 .content h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-right: 50px;
+    font-family: poppins;
+}
+.container .row .col-lg-6  .pic{
+    border-radius: 25px;
+    margin-top: -10px;
+}
+.col-lg-6 .content li{
+    margin-left: 40px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: poppins;
+}
+.col-lg-6 .content a{
+    width: 300px;
+    padding-top: 25px;
+}
+.keybox{
+    width: 90%;
+    height: 300px;
+    background-color: #f4faff;
+    margin-top: 80px;
+    border-radius: 25px;
+    position: relative;
+}
+.keybox h1{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: poppins;
+}
+.keybox p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: poppins;
+}
+.keybox2 .row .col-lg-4{
+  width: 300px;
+  height: 400px;
+  background-color:#ffffff;
+  margin: 10px;  
+  /* margin-left: 20px; */
+  padding-left: 50px;
+  border-radius: 25px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 1);
+  position: relative;
+}
+.keybox2 .row .fr1{
+    margin-left: 50px;
+    margin-top: -20px;
+    
+} 
+.keybox2 .row .col-lg-4  h1{
+    padding-right: 30px;
+    padding-top: 50px;
+    font-family: poppins;
+
+}
+.keybox2 .row .col-lg-4  p{
+    padding-right: 30px;
+    padding-top: 20px;
+    font-family: poppins;
+    font-size: 15px;
+}
+.hero3 .container .h22{
+    font-family: poppins;
+    font-size: 45px;
+    letter-spacing: 1px;
+    font-weight: 800;
+
+}
+.hero3 .container p{
+    font-family: poppins;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.hero4{
+    margin-top: 50px;
+}
+.hero4 .container .row .bio{
+    width: 300px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 1);
+}
+.hero4 .container .row .fr{
+    margin-left: 60px;
+    
+}
+.container .row .fr .tr{
+    margin-top: 90px;
+} 
+
+
